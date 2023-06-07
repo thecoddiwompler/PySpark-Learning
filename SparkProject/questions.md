@@ -1,0 +1,1 @@
+How to convert an individual independent column to dataframe?
